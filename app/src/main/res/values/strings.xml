@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Toll_Management</string>
+    <string-array name="vehicleTypes_array">
+        <item>Select Vehicle Type</item>
+        <item>Sedan</item>
+        <item>Truck</item>
+        <item>Bus</item>
+        <item>Van</item>
+        <item>Tanker</item>
+        <item>SUV</item>
+
+    </string-array>
+</resources>
+
